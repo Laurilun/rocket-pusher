@@ -1,0 +1,5 @@
+{
+  "name": "Rocket Rush",
+  "description": "Control a rocket, hold to ascend and release to descend. Fly through incoming targets to destroy them and score points.",
+  "requestFramePermissions": []
+}
